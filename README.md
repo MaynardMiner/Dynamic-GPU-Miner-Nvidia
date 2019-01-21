@@ -43,7 +43,7 @@ A developpement environnement is required together with curl, jansson and openss
 
 	./autogen.sh
 	./configure
-	./make
+	./build.sh
 
 
 About source code dependencies for windows
